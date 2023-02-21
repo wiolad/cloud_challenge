@@ -15,10 +15,10 @@ https://aws.amazon.com/compliance/shared-responsibility-model/
 
 
 #### What are the most popular Cloud Providers?
-*Google Cloud Platform
-*Amazon Web Services
-*Microsoft Azure
-*Alibaba Cloud
+* Google Cloud Platform
+* Amazon Web Services
+* Microsoft Azure
+* Alibaba Cloud
 
 #### What is a Virtual Machine?
 https://cloud.google.com/learn/what-is-a-virtual-machine#section-1

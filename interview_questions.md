@@ -1,7 +1,6 @@
 # Interview prep 📚
 
 ### Week 1
-Interview prep 📚
 
 #### What is Cloud Computing?
 On-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user
@@ -22,4 +21,20 @@ https://aws.amazon.com/compliance/shared-responsibility-model/
 
 #### What is a Virtual Machine?
 https://cloud.google.com/learn/what-is-a-virtual-machine#section-1
-A virtual machine (VM) is a digital version of a physical computer. Virtual machine software can run programs and operating systems, store data, connect to networks, and do other computing functions, and requires maintenance such as updates and system monitoring. 
+A virtual machine (VM) is a digital version of a physical computer. Virtual machine software can run programs and operating systems, store data, connect to networks, and do other computing functions, and requires maintenance such as updates and system monitoring.
+
+
+### Week 2
+
+#### What is Google Cloud Storage?
+A service for storing your objects in Google Cloud. An object is an immutable piece of data consisting of a file of any format. You store objects in containers called **buckets**. All buckets are associated with a project, and you can group your projects under an organization. Each project, bucket, and object in Google Cloud is a resource in Google Cloud. An example of a resource is a bucket.
+
+#### Additional info about Google Cloud Platform (GCP)?
+GCP resource hierarchy has four levels: organization, folder, project, and resource. Certain settings can be applied at different levels. The settings are inherited, which means e.g. that if project A belongs to an organization X and someone has been granted access to organization X as admin, they will be also able to manage project A.
+
+#### What is HTML?
+HTML - HyperText Markup Language- it is the standard markup language for documents designed to be displayed in a web browser.
+
+#### What is IAM?
+IAM - Identity and Management - it lets administrators authorise who can access different resources in the cloud or perform certain actions.
+

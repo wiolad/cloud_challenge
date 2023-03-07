@@ -38,3 +38,17 @@ HTML - HyperText Markup Language- it is the standard markup language for documen
 #### What is IAM?
 IAM - Identity and Management - it lets administrators authorise who can access different resources in the cloud or perform certain actions.
 
+
+#### What is Python?
+
+My favourite programming language :)
+
+#### What is function?
+
+A piece of code that you can use over and over again, rather than writing it out multiple times. A function can take some arguments, make some actions on the arguments and return some value.
+
+#### What is Cloud Function?
+#### What is serverless achitecture?
+#### What is logging and log monitoring?
+
+

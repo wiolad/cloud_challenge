@@ -39,16 +39,23 @@ HTML - HyperText Markup Language- it is the standard markup language for documen
 IAM - Identity and Management - it lets administrators authorise who can access different resources in the cloud or perform certain actions.
 
 
-#### What is Python?
+### Week 3
 
+#### What is Python?
 My favourite programming language :)
 
 #### What is function?
-
 A piece of code that you can use over and over again, rather than writing it out multiple times. A function can take some arguments, make some actions on the arguments and return some value.
 
 #### What is Cloud Function?
+With Cloud Functions you write simple, single-purpose functions that can be triggered when an event being watched is fired. The code executes in a fully managed environment. There is no need to provision any infrastructure or worry about managing any servers.
+
 #### What is serverless achitecture?
+It is a way to build and run applications and services without the need to manage infrastructure. The application still runs on servers, but all the server management is done by a Cloud Provider. You no longer have to provision, scale, and maintain servers to run your applications, databases, and storage systems.
+
 #### What is logging and log monitoring?
+Logging - It is referring either to the practice of logging errors and changes, or to the application logs that are collected. The purpose of logging is to create an ongoing record of application events. Log files can be used to review any event within a system, including failures and state transformations. Consequently, log messages can provide valuable information to help pinpoint the cause of performance problems. Log data can help DevOps teams troubleshoot issues by identifying which changes resulted in error reporting. But remember, logging is only as valuable as the information it contains. Source: AppDynamics
+
+Log monitoring - is the process of continuously monitoring logs for specific events or patterns in order to identify potential issues or problems. DevOps and Developers continuously observe logs as they’re recorded, and further, they employ log monitoring tools to collect, examine, and comprehend network performance data. Source: Middleware.io
 
 

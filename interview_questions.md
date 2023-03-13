@@ -59,3 +59,21 @@ Logging - It is referring either to the practice of logging errors and changes, 
 Log monitoring - is the process of continuously monitoring logs for specific events or patterns in order to identify potential issues or problems. DevOps and Developers continuously observe logs as they’re recorded, and further, they employ log monitoring tools to collect, examine, and comprehend network performance data. Source: Middleware.io
 
 
+### Week 4
+
+#### What is Compute Engine?
+
+Secure and customisable compute service that lets you create and run virtual machines on Google’s infrastructure.
+
+#### What is Computer Network?
+
+Devices in a computer network can be connected using physical cables or using wireless technologies.
+
+#### What is IP?
+
+An information sent over the network is chopped into smaller pieces called packets. Each packet contains destination address, so that the routers knows where to forward then. This format is defined by Internet Protocol (IP).  An IP address is a unique string of characters that identifies each computer using the Internet Protocol to communicate over a network. It can be compared to a postal address.
+
+#### What is Ethernet and WIFI?
+
+Ethernet is a way of connecting computers together in a local area network or LAN (Local area network).  Wi-Fi  is a way of connecting to a computer network using radio waves instead of wires. It was invented to connect computers that are near each other, and nowadays is much used for Internet connections
+

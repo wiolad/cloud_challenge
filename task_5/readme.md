@@ -1,0 +1,1 @@
+##### Answer to question from point 3 is 18.80

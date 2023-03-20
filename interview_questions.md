@@ -38,3 +38,42 @@ HTML - HyperText Markup Language- it is the standard markup language for documen
 #### What is IAM?
 IAM - Identity and Management - it lets administrators authorise who can access different resources in the cloud or perform certain actions.
 
+
+### Week 3
+
+#### What is Python?
+My favourite programming language :)
+
+#### What is function?
+A piece of code that you can use over and over again, rather than writing it out multiple times. A function can take some arguments, make some actions on the arguments and return some value.
+
+#### What is Cloud Function?
+With Cloud Functions you write simple, single-purpose functions that can be triggered when an event being watched is fired. The code executes in a fully managed environment. There is no need to provision any infrastructure or worry about managing any servers.
+
+#### What is serverless achitecture?
+It is a way to build and run applications and services without the need to manage infrastructure. The application still runs on servers, but all the server management is done by a Cloud Provider. You no longer have to provision, scale, and maintain servers to run your applications, databases, and storage systems.
+
+#### What is logging and log monitoring?
+Logging - It is referring either to the practice of logging errors and changes, or to the application logs that are collected. The purpose of logging is to create an ongoing record of application events. Log files can be used to review any event within a system, including failures and state transformations. Consequently, log messages can provide valuable information to help pinpoint the cause of performance problems. Log data can help DevOps teams troubleshoot issues by identifying which changes resulted in error reporting. But remember, logging is only as valuable as the information it contains. Source: AppDynamics
+
+Log monitoring - is the process of continuously monitoring logs for specific events or patterns in order to identify potential issues or problems. DevOps and Developers continuously observe logs as they’re recorded, and further, they employ log monitoring tools to collect, examine, and comprehend network performance data. Source: Middleware.io
+
+
+### Week 4
+
+#### What is Compute Engine?
+
+Secure and customisable compute service that lets you create and run virtual machines on Google’s infrastructure.
+
+#### What is Computer Network?
+
+Devices in a computer network can be connected using physical cables or using wireless technologies.
+
+#### What is IP?
+
+An information sent over the network is chopped into smaller pieces called packets. Each packet contains destination address, so that the routers knows where to forward then. This format is defined by Internet Protocol (IP).  An IP address is a unique string of characters that identifies each computer using the Internet Protocol to communicate over a network. It can be compared to a postal address.
+
+#### What is Ethernet and WIFI?
+
+Ethernet is a way of connecting computers together in a local area network or LAN (Local area network).  Wi-Fi  is a way of connecting to a computer network using radio waves instead of wires. It was invented to connect computers that are near each other, and nowadays is much used for Internet connections
+
